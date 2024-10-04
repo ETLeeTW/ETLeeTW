@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ETLeeTW
+- 👋 Hi, I’m ETLeeTW, a kid born in Taiwan 
 - 👀 I’m interested in ... speaking Taiwanese-English, coding, make some PCB, and 3D CAD
 - 🌱 I’m currently learning flutter and python. 
 - 📫 How to reach me ... Try to search tttimtw on Steam and text me :)
