@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ETLeeTW
 - 👀 I’m interested in ... speaking Taiwanese-English, coding, make some PCB, and 3D CAD
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning flutter and python. 
 - 📫 How to reach me ... Try to search tttimtw on Steam and text me :)
 
 <!---
